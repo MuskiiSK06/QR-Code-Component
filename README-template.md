@@ -45,5 +45,5 @@ I plan to continue improving my responsive design skills and explore more advanc
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Muskan Shaikh]( https://muskiisk06.github.io/QR-Code-Component/)
 - Frontend Mentor - [@MuskiiSK06](https://www.frontendmentor.io/profile/MuskiiSK06)
